@@ -257,7 +257,7 @@ h3{
     background-color: #000;
     transform: skewY(-10deg);
 }
-.contact h2{color: whitesmoke;}
+.contact h2{color: #f9611b;}
 
 .contact .contact-container{
     transform: skewY(10deg);
@@ -270,25 +270,27 @@ h3{
 }
 .contact .contact-container .emails{
     text-align: right;
-    color: #11FBA6;
+    color: whitesmoke;
 }
 .contact .contact-container .emails h3{
     text-align: right;
+    color: #f9611b;
 }
 .contact .contact-container .location h3{
     text-align: left;
+    color: #f9611b;
     
 }
 .contact .contact-container .location{
     text-align: left;
-    color: #11FBA6;
+    color: whitesmoke;
 }
 .contact .contact-container .social{
     text-align: center;
 }
 
 .contact .contact-container .social a path{
-    fill: #11FBA6;
+    fill: whitesmoke;
 }
 .contact .contact-container .social a:hover path{
     fill: #f9611b;
